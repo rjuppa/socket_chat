@@ -1,5 +1,5 @@
 # socket_chat
-a simple chat 
+a simple python chat 
 - non blocking with `select`
 
 
